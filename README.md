@@ -10,18 +10,12 @@ The objective of this project is to implement a Generative AI Retrieval-Augmente
 
 ## Key Features
 
-- **AWS Bedrock Integration:**
-  - Access to pre-trained models with options for customization and management.
-- **Serverless Deployment with AWS Lambda:**
-  - Utilizes serverless architecture for API integration and event-driven execution.
-- **Secure Data Storage:**
-  - Implements AWS S3 services for scalable and secure data storage.
-- **Performance Monitoring & Cost Optimization:**
-  - Includes tools and practices for monitoring performance and optimizing costs.
-- **Horizontal Scaling:**
-  - Supports horizontal scaling and integration with other AWS services, along with multi-region deployment.
-- **Custom UI/UX:**
-  - Offers personalization features and a user feedback mechanism to enhance user experience.
+🌐 AWS Bedrock Integration for access to customizable, pre-trained models.
+⚡ Serverless Deployment with AWS Lambda, ensuring event-driven execution and API integration.
+🛡️ Secure & Scalable Data Storage using AWS S3.
+🎛️ Interactive Interface built with Streamlit for real-time data visualization and user interaction.
+📈 Performance Monitoring & Cost Optimization for continuous improvement.
+🌍 Horizontal Scaling & Multi-Region Deployment for global reach.
 
 ## Installation Instructions
 
